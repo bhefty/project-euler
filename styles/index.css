@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.center {
+  margin: auto;
+  text-align: center;
+}
+
+.inputNumber {
+  width: 100px;
+  margin: 20px auto;
+}
+
+.answer {
+  font-size: large;
+}
